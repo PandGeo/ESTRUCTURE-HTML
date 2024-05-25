@@ -1,0 +1,10 @@
+:root{
+    --nav-color:#ffa219;
+}
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.color-nav{
+    background-color: var(--nav-color);
+}
